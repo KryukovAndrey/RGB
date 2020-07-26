@@ -40,7 +40,7 @@ struct ColorSlider: View {
                 .padding(.leading)
                 .background(Color.white)
                 .cornerRadius(8)
-                .keyboardType(.numbersAndPunctuation)
+                .keyboardType(.numberPad)
         }
         .padding(.horizontal)
     }
